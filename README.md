@@ -28,3 +28,15 @@
 
 * **Today's Progress**: I used the Cifar10 dataset on the Convolutional Neural Network built using Keras. Cifar10 dataset has images which belong to one of the 10 classes like bird, truck, cat, frog, etc.
 * [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day5%20-%20CNN%20Cifar10%20keras)
+
+
+## Day 6 : July 10, 2018
+
+* **Today's Progress**: I learnt RNN, which is a part of the course. So, I built a network containing SimpleRNN layer, in order to understand the whole working. The dataset used is International-Airline-Passengers. 
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day6%20-%20SimpleRnn)
+
+
+## Day 7 : July 11, 2018
+
+* **Today's Progress**: I implemented Naive Bayes classifier from scratch, and used it for predicting the classes in Iris Dataset available in Scikit-learn.
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day7%20-%20Naive%20Bayes)
