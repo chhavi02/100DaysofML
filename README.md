@@ -40,3 +40,14 @@
 
 * **Today's Progress**: I implemented Naive Bayes classifier from scratch, and used it for predicting the classes in Iris Dataset available in Scikit-learn.
 * [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day7%20-%20Naive%20Bayes)
+
+
+## Day 8 : July 12, 2018
+
+* **Today's Progress**: I started learning KMeans clustering. On the Iris dataset, I implemented KMeans clustering from Scikit-learn, besided that I wrote another K_Means class. 
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day8%20-%20KMeans)
+
+## Day 9-10 : July 13, 14, 2018
+
+* **Progress in 2 days**: I worked on Twitter US Airlines Sentiment Analysis project, which is a part of the coursework. The data preprocessing needed for this analyser was interesting. I used 3 different classifiers in order to see which one gives the best results. 
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day9-10-Twitter%20Sentiment%20Analysis)
