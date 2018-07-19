@@ -54,10 +54,10 @@
 
 ## Day 11-12 : July 15-16, 2018
 
-* **Progress**: I implemented Gradient Descent from scratch on used it for finding the result in Combined Cycle Power Plant Dataset. The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
-* [**Link to the code**]()
+* **Progress**: I implemented Gradient Descent from scratch and used it for finding the result in Combined Cycle Power Plant Dataset. The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day11-12-Gradient%20Descent)
 
 ## Day 13-14 : July 17-18, 2018
 
 * **Progress**: I implemented Naive Bayes classifier on Iris Dataset. The code has been written from scratch.
-* [**Link to the code**]()
+* [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day13-14-Naive%20Bayes)
