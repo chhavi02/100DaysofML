@@ -51,3 +51,13 @@
 
 * **Progress in 2 days**: I worked on Twitter US Airlines Sentiment Analysis project, which is a part of the coursework. The data preprocessing needed for this analyser was interesting. I used 3 different classifiers in order to see which one gives the best results. 
 * [**Link to the code**](https://github.com/chhavi02/100DaysofML/tree/master/Day9-10-Twitter%20Sentiment%20Analysis)
+
+## Day 11-12 : July 15-16, 2018
+
+* **Progress**: I implemented Gradient Descent from scratch on used it for finding the result in Combined Cycle Power Plant Dataset. The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
+* [**Link to the code**]()
+
+## Day 13-14 : July 17-18, 2018
+
+* **Progress**: I implemented Naive Bayes classifier on Iris Dataset. The code has been written from scratch.
+* [**Link to the code**]()
